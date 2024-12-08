@@ -1,18 +1,8 @@
-# sv
+# Thymers
 
-Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
+Simplistic timer application.
 
-## Creating a project
-
-If you're seeing this, you've probably already done this step. Congrats!
-
-```bash
-# create a new project in the current directory
-npx sv create
-
-# create a new project in my-app
-npx sv create my-app
-```
+Capable of displaying past or remaining time to predefined events.
 
 ## Developing
 
