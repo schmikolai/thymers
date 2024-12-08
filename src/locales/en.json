@@ -1,0 +1,20 @@
+ {
+    "time": {
+        "Y": "year",
+        "M": "month",
+        "W": "week",
+        "D": "day",
+        "h": "hour",
+        "m": "minute",
+        "s": "second",
+        "ms": "millisecond",
+        "Y.plural": "years",
+        "M.plural": "months",
+        "W.plural": "weeks",
+        "D.plural": "days",
+        "h.plural": "hours",
+        "m.plural": "minutes",
+        "s.plural": "seconds",
+        "ms.plural": "milliseconds"
+    }
+}
